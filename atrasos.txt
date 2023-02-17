@@ -1,0 +1,17 @@
+Companhia           	Atraso Médio    
+Luxair              	0               
+Brussels Airlines   	0               
+Swiss International 	0               
+HOP!                	0               
+Air Europa          	0               
+Evelop Airlines     	0               
+Turkish Airlines    	0               
+Lufthansa           	1               
+Ryanair             	6               
+TAP Portugal        	8               
+Iberia              	8               
+TAAG                	10              
+EasyJet Airlines    	12              
+Transavia France    	14              
+null                	17              
+Sata Internacional  	35              
